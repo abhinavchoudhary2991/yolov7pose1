@@ -1,4 +1,4 @@
-# yolov7-pose-estimation
+# yolov7-Keypoint Extraction- from pose.
 
 ### Steps to run Code
 - If you are using google colab then you will first need to mount the drive with mentioned command first,
